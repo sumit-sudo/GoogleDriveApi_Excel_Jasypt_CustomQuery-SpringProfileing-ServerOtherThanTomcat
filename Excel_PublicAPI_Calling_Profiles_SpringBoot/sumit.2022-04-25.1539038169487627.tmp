@@ -1,0 +1,14 @@
+[INFO ] 2022-04-25 19:58:16.589 [restartedMain] o.a.c.c.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+[INFO ] 2022-04-25 19:58:16.593 [restartedMain] o.a.c.c.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2022-04-25 19:58:16.593 [restartedMain] o.a.c.c.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+[INFO ] 2022-04-25 19:58:16.593 [restartedMain] o.a.c.c.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2022-04-25 19:58:16.594 [restartedMain] o.a.c.c.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2022-04-25 19:58:16.596 [restartedMain] o.a.c.c.StandardService - Starting service [Tomcat]
+[INFO ] 2022-04-25 19:58:16.596 [restartedMain] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+[INFO ] 2022-04-25 19:58:16.639 [restartedMain] o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2022-04-25 19:58:16.715 [restartedMain] c.z.h.HikariDataSource - HikariPool-7 - Starting...
+[INFO ] 2022-04-25 19:58:16.722 [restartedMain] c.z.h.HikariDataSource - HikariPool-7 - Start completed.
+[INFO ] 2022-04-25 19:58:16.728 [restartedMain] o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2022-04-25 19:58:16.744 [restartedMain] o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[INFO ] 2022-04-25 19:58:16.908 [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2022-04-25 19:58:17.279 [restartedMain] c.e.p.ExcelPublicApiCallingProfilesSpringBootApplication - Started ExcelPublicApiCallingProfilesSpringBootApplication in 1.579 seconds (JVM running for 845.545)

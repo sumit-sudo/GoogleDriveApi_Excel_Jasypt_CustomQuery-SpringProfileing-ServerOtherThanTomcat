@@ -1,0 +1,20 @@
+[INFO ] 2022-04-26 10:47:56.100 [restartedMain] o.a.c.c.StandardService - Starting service [Tomcat]
+[INFO ] 2022-04-26 10:47:56.104 [restartedMain] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+[INFO ] 2022-04-26 10:47:56.150 [restartedMain] o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2022-04-26 10:47:56.237 [restartedMain] c.z.h.HikariDataSource - HikariPool-2 - Starting...
+[INFO ] 2022-04-26 10:47:56.245 [restartedMain] c.z.h.HikariDataSource - HikariPool-2 - Start completed.
+[INFO ] 2022-04-26 10:47:56.253 [restartedMain] o.h.j.i.u.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2022-04-26 10:47:56.267 [restartedMain] o.h.d.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+[INFO ] 2022-04-26 10:47:56.408 [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2022-04-26 10:47:57.321 [restartedMain] c.e.p.ExcelPublicApiCallingProfilesSpringBootApplication - Started ExcelPublicApiCallingProfilesSpringBootApplication in 2.748 seconds (JVM running for 3175.305)
+[INFO ] 2022-04-26 10:48:19.200 [Thread-7] c.z.h.HikariDataSource - HikariPool-2 - Shutdown initiated...
+[INFO ] 2022-04-26 10:48:19.211 [Thread-7] c.z.h.HikariDataSource - HikariPool-2 - Shutdown completed.
+[INFO ] 2022-04-26 10:48:19.371 [restartedMain] c.e.p.ExcelPublicApiCallingProfilesSpringBootApplication - Starting ExcelPublicApiCallingProfilesSpringBootApplication using Java 17.0.1 on Sumit-PC with PID 7588 (C:\Users\Sumit\Desktop\Google_API\Excel_PublicAPI_Calling_Profiles_SpringBoot\target\classes started by Sumit in C:\Users\Sumit\Desktop\Google_API\Excel_PublicAPI_Calling_Profiles_SpringBoot)
+[INFO ] 2022-04-26 10:48:19.372 [restartedMain] c.e.p.ExcelPublicApiCallingProfilesSpringBootApplication - The following 1 profile is active: "dev"
+[INFO ] 2022-04-26 10:48:20.117 [restartedMain] o.a.c.c.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+[INFO ] 2022-04-26 10:48:20.118 [restartedMain] o.a.c.c.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2022-04-26 10:48:20.118 [restartedMain] o.a.c.c.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+[INFO ] 2022-04-26 10:48:20.119 [restartedMain] o.a.c.c.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2022-04-26 10:48:20.119 [restartedMain] o.a.c.c.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2022-04-26 10:48:20.120 [restartedMain] o.a.c.c.StandardService - Starting service [Tomcat]
+[INFO ] 2022-04-26 10:48:20.121 [restartedMain] o.a.c.c.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
